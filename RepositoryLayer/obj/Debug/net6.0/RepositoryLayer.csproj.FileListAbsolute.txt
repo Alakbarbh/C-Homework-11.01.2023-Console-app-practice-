@@ -1,0 +1,15 @@
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\halak\OneDrive\Desktop\Homework11.01.2023Console-app(Practice)\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
